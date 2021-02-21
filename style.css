@@ -1,0 +1,82 @@
+.nav-link,.navbar-brand{
+    color: rgb(99, 51, 11) !important;
+    font-family: cursive;
+}
+.navbar-toggler{
+    color: brown;
+}
+.jumbotron{
+    padding: 32px;
+    margin-bottom: 0px;
+}
+#about{
+    background-color: rgb(255, 238, 224);
+    color:rgb(99, 51, 11) !important ;
+}
+.row {
+    margin: 0%;
+}
+.col-md-6{
+    padding: 5px;
+}
+
+h2{
+    text-align: center; 
+    margin-top: 5%;
+    margin-bottom: 0%;
+    padding: 15px;
+    font-family: 'Courgette';
+}
+p{
+    text-align: justify;
+}
+.card{
+    padding: 0;
+}
+.card-body{
+    background-color: rgb(255, 238, 224);
+}
+.card-text{
+    margin: 2px;
+    color: rgb(134, 73, 23);
+    font-family:'Yusei Magic', sans-serif;
+}
+.progress{
+    height: 25px;
+}
+.progress-bar{
+    background-color:rgb(175, 117, 68);
+    font-weight: bold;
+}
+.card-header{
+    font-family:'Yusei Magic', sans-serif;
+    color: white;
+    background-color: rgb(170, 116, 72) ;
+}
+.carousel-item{
+    text-align: center; 
+    font-family:'Yusei Magic', sans-serif ;
+    margin-top: 2%;
+    color:  rgb(110, 60, 19);
+}
+#education{
+    background-color: rgb(255, 238, 224);
+}
+li.active{
+    background-color: rgb(194, 139, 94);
+}
+.col-lg-4{
+    padding: 3%;
+    color: rgb(134, 73, 23);
+}
+#footer{
+    background-color: rgb(255, 238, 224) ;
+}
+.btn-lg{
+    color: rgb(134, 73, 23);
+}
+
+
+
+
+
